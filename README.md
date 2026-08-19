@@ -1,16 +1,31 @@
-## Hi there 👋
+```
+# Suon Sovannarith
 
-<!--
-**suonsovannarith/SuonSovannarith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science student
 
-Here are some ideas to get you started:
+I'm a student majoring in Computer Science, specialized in Data Science, at the Cambodia Academy of Digital Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* **Name:** Suon Sovannarith
+* **Major:** Computer Science
+* **Year:** Year 1
+
+---
+
+## What I Am Learning
+
+Currently, I am learning:
+
+* **Git & GitHub**
+* **JavaScript Fundamentals**
+
+---
+
+## Contact
+
+* Telegram: @SuonSovannarithh
+* Email: suon.sovananrith@gmail.com
+```

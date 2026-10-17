@@ -11,7 +11,7 @@ I'm a student majoring in Computer Science, specialized in Data Science, at the 
 
 * **Name:** Suon Sovannarith
 * **Major:** Computer Science
-* **Year:** Year 1
+* **Year:** Year 2
 
 ---
 
@@ -19,8 +19,13 @@ I'm a student majoring in Computer Science, specialized in Data Science, at the 
 
 Currently, I am learning:
 
-* **Git & GitHub**
-* **JavaScript Fundamentals**
+* Git & GitHub
+* JavaScript Fundamentals
+* Fundamental Web Design (UI/UX, HTML, CSS)
+* Database Analysis and Design
+* Data Structure and Algorithms (C++)
+* Computer Achitecture
+* Business Communication
 
 ---
 
